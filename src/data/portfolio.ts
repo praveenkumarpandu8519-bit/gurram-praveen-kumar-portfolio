@@ -147,7 +147,7 @@ export const introSlides: IntroSlide[] = [
  {kicker:'Research',title:'Formulation & Pharmacogenomics',lines:['Casein–chloroquine taste-masking research','Review article on precision oncology in hematological malignancies'],chips:['In-vitro','UV–Visible','Research']},
  {kicker:'Internship',title:'Learning at EdVyro',lines:['Virtual Pharmacovigilance Intern','7 October – 6 November 2026'],chips:['ADR Reporting','ICSR Fundamentals','Documentation']},
 ];
-export type ProfileId = 'sushmita' | 'recruiter' | 'creative';
+export type ProfileId = 'praveen-kumar' | 'recruiter' | 'creative';
 export type SectionId = 'about' | 'journey' | 'originals' | 'picks' | 'skills' | 'moments' | 'story';
 
 export const viewerProfiles: {
@@ -158,7 +158,7 @@ export const viewerProfiles: {
   order: SectionId[];
 }[] = [
   {
-    id: 'sushmita',
+    id: 'praveen-kumar',
     name: 'Praveen',
     blurb: 'The full portfolio, in order',
     color: '#e5132b',
